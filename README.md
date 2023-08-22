@@ -34,3 +34,4 @@ StarGate:
 ```  
 ## 📋 Special Thanks To:
 Everyone who downloaded this plugin. To persons who inspiraded me to start this plugin. Thanks to You, this project will be updated for a long time
+
